@@ -23,3 +23,8 @@ Dataset diperoleh dari *database* PubChem yang memuat informasi mengenai posisi 
 * Menggunakan transfer learning dengan VGG19.
 * Akurasi yang dihasilkan 92%.
 * Model dikonversi menjadi format TF-Lite untuk deployment ke mobile.
+
+### [Appliances Time Series Energy Prediction](#)
+Saya membuat model machine learning untuk permasalahan time series untuk memprediksi konsumsi energi dengan agregasi 10 menit. Dataset diperoleh dari UCI Machine Learning. Model dibangun dengan TensorFlow menggunakan layer LSTM. Dihasilkan model dengan MAE < 10% skala data. <br>
+
+![Perbandingan distribusi energi hasil prediksi dengan data uji](images/energy-appliances.png)
