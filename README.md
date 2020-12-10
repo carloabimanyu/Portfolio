@@ -29,4 +29,4 @@ Dataset diperoleh dari *database* PubChem yang memuat informasi mengenai posisi 
 ### [Appliances Time Series Energy Prediction](#)
 Saya membuat model machine learning untuk permasalahan time series untuk memprediksi konsumsi energi dengan agregasi 10 menit. Dataset diperoleh dari UCI Machine Learning. Model dibangun dengan TensorFlow menggunakan layer LSTM. Dihasilkan model dengan MAE < 10% skala data. <br>
 
-![](images/energy-appliances.png)
+![](images/energy-appliances1.png)
