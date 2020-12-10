@@ -30,3 +30,21 @@ Dataset diperoleh dari *database* PubChem yang memuat informasi mengenai posisi 
 Saya membuat model machine learning untuk permasalahan time series untuk memprediksi konsumsi energi dengan agregasi 10 menit. Dataset diperoleh dari UCI Machine Learning. Model dibangun dengan TensorFlow menggunakan layer LSTM. Dihasilkan model dengan MAE < 10% skala data. <br>
 
 ![](images/energy-appliances1.png)
+
+### [Google Play Store Reviews - Multiclass Sentiment Analysis](#)
+* Membuat model klasifikasi 3 kelas untuk permasalahan NLP, khususnya sentiment analysis.
+* Dataset terdiri dari 37 ribu review.
+* Arsitektur model terdiri dari layer Embedding dan Bi-LSTM.
+* Diperoleh akurasi 92%.
+
+![](images/play-store-nlp.png)
+
+### [In depth EDA for Used Car Price Predictions Dataset](#)
+Saya melakukan eksplorasi secara mendalam pada dataset dengan manipulasi DataFrame dengan pandas serta visualisasi dengan matplotlib dan seaborn.
+
+![](images/used-car-dsa.png)
+
+### [Simulate Forced Oscillation with Euler, Runge-Kutta, and Exponential Time Differencing (ETD) Method](#)
+Sistem osilasi terpaksa dalam mekanika klasik memiliki persamaan gerak yang merupakan persamaan diferensial stiff. Permasalahan syarat awal ini dapat diselesaikan dengan pendekatan numerik dari beberapa metode, yakni Metode Euler, Metode Runge-Kutta, dan Metode ETD. Hasil simulasi divisualiasikan dalam plot simpangan sebagai fungsi waktu dan kecepatan sudut sebagai fungsi waktu. Hasil simulasi menunjukkan bahwa pada kasus stiff differential equation, Metode ETD lebih akurat dibandingkan Metode Euler dan Runge-Kutta.
+
+![](images/forced-oscillations.png)
