@@ -9,3 +9,9 @@ Dataset diperoleh dari *database* PubChem yang memuat informasi mengenai posisi 
 * Model XGB memiliki MAE 16.69 kcal/mol dengan durasi training 86.7 detik dan durasi prediksi 0.18 detik.
 * Model Neural Network memiliki MAE 77.14 kcal/mol dengan durasi training 195.0 detik dan durasi prediksi 0.77 detik. <br>
 ![Perbandingan distribusi energi hasil prediksi dengan data uji](images/predictall.png)
+
+### [Hate Speech Tweet Classification using Bi-LSTM](#)
+* Membangun model machine learning untuk klasifikasi tweet apakah termasuk hate speech atau bukan.
+* Dataset yang digunakan merupakan tweet berbahasa Indonesia.
+* Menerapkan stemming dengan library Sastrawi.
+* Menerapkan Tokenisasi, Embedding Layer, dan Bi-LSTM dari TensorFlow dan menghasilkan akurasi 83%.
