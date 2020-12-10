@@ -1,6 +1,3 @@
-# Portfolio
-These are proofs of my Data Science journey.
-
 ## [Indonesia Mobility Changes due to COVID-19 -  Data Visualization with Tableau](https://public.tableau.com/views/IndonesiamobilitychangesduetoCOVID-19/Dashboard?:language=en&:display_count=y&:origin=viz_share_link)
 ### November 2020
 *keywords: data visualization, dashboard, tableau* <br>
