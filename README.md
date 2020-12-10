@@ -11,4 +11,3 @@ Dataset diperoleh dari *database* PubChem yang memuat informasi mengenai posisi 
 * Model Neural Network memiliki MAE 77.14 kcal/mol dengan durasi training 195.0 detik dan durasi prediksi 0.77 detik. <br>
 **keywords: XGBoost, neural network, deep learning, regression** <br>
 ![Perbandingan distribusi energi hasil prediksi dengan data uji](images/predictall.png)
-![Plot MAE pada proses training neural network](images/plotmae.png)
