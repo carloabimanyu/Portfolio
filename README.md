@@ -17,3 +17,9 @@ Dataset diperoleh dari *database* PubChem yang memuat informasi mengenai posisi 
 * Dataset yang digunakan merupakan tweet berbahasa Indonesia.
 * Menerapkan stemming dengan library Sastrawi.
 * Menerapkan Tokenisasi, Embedding Layer, dan Bi-LSTM dari TensorFlow dan menghasilkan akurasi 83%.
+
+### [Animal Image Classifier with Transer Learning and TF-Lite Deployment](#)
+* Dataset berisi lebih dari 15 ribu gambar hewan dengan 3 kelas.
+* Menggunakan transfer learning dengan VGG19.
+* Akurasi yang dihasilkan 92%.
+* Model dikonversi menjadi format TF-Lite untuk deployment ke mobile.
